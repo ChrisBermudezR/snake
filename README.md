@@ -1,2 +1,3 @@
-# snake
-Juego de snake
+## Aplicación web del Juego **SNAKE** hecho con JS
+
+![Snake](snake.gif)
